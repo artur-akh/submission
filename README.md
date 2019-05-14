@@ -1,7 +1,9 @@
-# Magisk Installer
+# Youtube Music Mod
 
-**Update `README.md` if you want to submit your module to the online repo!**
+**ONLY supports arm/arm64/x86 devices and minAPI21 systems**
 
-For more information about how to use this module installer, please refer to [documentations](https://topjohnwu.github.io/Magisk/guides.html)
+Support: http://4pda.ru/forum/index.php?s=&showtopic=703524&view=findpost&p=83774073
 
-If you are not familiar with the Markdown syntax, you can start by experimenting on GitHub's online Markdown editor, which will let you preview before publishing. If you need more help, the [Markdown Cheat Sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) will be handy.
+Ad-free YouTube Music with background playback support.
+
+**Turn off the update in Playstore!**
